@@ -3,7 +3,7 @@
 PURPLE='\033[0;35m'
 NC='\033[0m'
 
-echo -e "\n${PURPLE}AUS v 1.1 Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞   ${NC}\n"
+echo -e "\n${PURPLE}AUS v 1.1${NC}\n"
 
 echo -e "${PURPLE}Updating the Gentoo repo...${NC}\n"
 emaint --auto sync
