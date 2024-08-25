@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AUS
+GenericName=System Updater
+Exec=sakura -e 'bash -c "doas /usr/bin/autoupdate.sh; exec bash"'
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
