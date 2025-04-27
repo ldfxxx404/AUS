@@ -54,7 +54,7 @@ update_grub() {
     echo -e "${PURPLE}GRUB was updated${NC}"
 }
 
-echo -e "\n${PURPLE}AUS v 1.1${NC}\n"
+echo -e "\n${PURPLE}AUS v 1.2${NC}\n"
 
 update_gentoo
 
